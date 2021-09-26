@@ -1,0 +1,54 @@
+    body {
+        background: rgb(0, 0, 0);
+        background: linear-gradient(196deg, rgba(0, 0, 0, 1) 0%, rgba(6, 9, 28, 1) 100%);
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .carousel {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 30px;
+    }
+    
+    .carousel-item img {
+        height: 500px;
+    }
+    
+    .navbar-dark {
+        padding: 20px 20px 20px 20px;
+    }
+    
+    .list-unstyled li a {
+        color: white;
+        font-weight: bolder;
+        text-decoration: none;
+    }
+    
+    .list-unstyled li a:hover {
+        text-decoration: underline;
+        color: grey;
+    }
+    
+    .float-left a {
+        color: white;
+        font-weight: bolder;
+        text-decoration: none;
+    }
+    
+    .float-left a:hover {
+        text-decoration: underline;
+        color: grey;
+    }
+    /* --------------------------------------------------- */
+    
+    .check {
+        color: goldenrod;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    
+    .uncheck {
+        color: grey;
+        font-weight: bold;
+        text-decoration: underline;
+    }
